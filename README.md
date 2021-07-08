@@ -1,2 +1,3 @@
 # Sachcha
-I am new in this math world .
+I am inquistive throuh learning .
+Learning Coding
